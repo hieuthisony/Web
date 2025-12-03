@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Web n\u00E2ng cao\\Web\\Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{843151AB-FF36-4470-8B53-AB3C6A381E25}|Lab2\\Lab2.csproj|d:\\web n\u00E2ng cao\\web\\lab2\\lab2\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{843151AB-FF36-4470-8B53-AB3C6A381E25}|Lab2\\Lab2.csproj|solutionrelative:lab2\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843151AB-FF36-4470-8B53-AB3C6A381E25}|Lab2\\Lab2.csproj|d:\\web n\u00E2ng cao\\web\\lab2\\lab2\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843151AB-FF36-4470-8B53-AB3C6A381E25}|Lab2\\Lab2.csproj|solutionrelative:lab2\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843151AB-FF36-4470-8B53-AB3C6A381E25}|Lab2\\Lab2.csproj|d:\\web n\u00E2ng cao\\web\\lab2\\lab2\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{843151AB-FF36-4470-8B53-AB3C6A381E25}|Lab2\\Lab2.csproj|solutionrelative:lab2\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843151AB-FF36-4470-8B53-AB3C6A381E25}|Lab2\\Lab2.csproj|d:\\web n\u00E2ng cao\\web\\lab2\\lab2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{843151AB-FF36-4470-8B53-AB3C6A381E25}|Lab2\\Lab2.csproj|solutionrelative:lab2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Welcome.cshtml",
+              "DocumentMoniker": "D:\\Web n\u00E2ng cao\\Web\\Lab2\\Lab2\\Views\\HelloWorld\\Welcome.cshtml",
+              "RelativeDocumentMoniker": "Lab2\\Views\\HelloWorld\\Welcome.cshtml",
+              "ToolTip": "D:\\Web n\u00E2ng cao\\Web\\Lab2\\Lab2\\Views\\HelloWorld\\Welcome.cshtml",
+              "RelativeToolTip": "Lab2\\Views\\HelloWorld\\Welcome.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-03T13:50:40.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Web n\u00E2ng cao\\Web\\Lab2\\Lab2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Web n\u00E2ng cao\\Web\\Lab2\\Lab2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lab2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-03T13:43:30.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Web n\u00E2ng cao\\Web\\Lab2\\Lab2\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab2\\Views\\HelloWorld\\Index.cshtml",
+              "ToolTip": "D:\\Web n\u00E2ng cao\\Web\\Lab2\\Lab2\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeToolTip": "Lab2\\Views\\HelloWorld\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-03T13:41:12.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelloWorldController.cs",
+              "DocumentMoniker": "D:\\Web n\u00E2ng cao\\Web\\Lab2\\Lab2\\Controllers\\HelloWorldController.cs",
+              "RelativeDocumentMoniker": "Lab2\\Controllers\\HelloWorldController.cs",
+              "ToolTip": "D:\\Web n\u00E2ng cao\\Web\\Lab2\\Lab2\\Controllers\\HelloWorldController.cs",
+              "RelativeToolTip": "Lab2\\Controllers\\HelloWorldController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T13:36:18.519Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
