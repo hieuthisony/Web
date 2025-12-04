@@ -7,24 +7,28 @@
       "RelativeMoniker": "D:0:0:{843151AB-FF36-4470-8B53-AB3C6A381E25}|Lab2\\Lab2.csproj|solutionrelative:lab2\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{843151AB-FF36-4470-8B53-AB3C6A381E25}|Lab2\\Lab2.csproj|d:\\web n\u00E2ng cao\\web\\lab2\\lab2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{843151AB-FF36-4470-8B53-AB3C6A381E25}|Lab2\\Lab2.csproj|solutionrelative:lab2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{843151AB-FF36-4470-8B53-AB3C6A381E25}|Lab2\\Lab2.csproj|d:\\web n\u00E2ng cao\\web\\lab2\\lab2\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843151AB-FF36-4470-8B53-AB3C6A381E25}|Lab2\\Lab2.csproj|solutionrelative:lab2\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{843151AB-FF36-4470-8B53-AB3C6A381E25}|Lab2\\Lab2.csproj|d:\\web n\u00E2ng cao\\web\\lab2\\lab2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{843151AB-FF36-4470-8B53-AB3C6A381E25}|Lab2\\Lab2.csproj|solutionrelative:lab2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{843151AB-FF36-4470-8B53-AB3C6A381E25}|Lab2\\Lab2.csproj|d:\\web n\u00E2ng cao\\web\\lab2\\lab2\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{843151AB-FF36-4470-8B53-AB3C6A381E25}|Lab2\\Lab2.csproj|solutionrelative:lab2\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{843151AB-FF36-4470-8B53-AB3C6A381E25}|Lab2\\Lab2.csproj|d:\\web n\u00E2ng cao\\web\\lab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{843151AB-FF36-4470-8B53-AB3C6A381E25}|Lab2\\Lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{843151AB-FF36-4470-8B53-AB3C6A381E25}|Lab2\\Lab2.csproj|d:\\web n\u00E2ng cao\\web\\lab2\\lab2\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843151AB-FF36-4470-8B53-AB3C6A381E25}|Lab2\\Lab2.csproj|solutionrelative:lab2\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843151AB-FF36-4470-8B53-AB3C6A381E25}|Lab2\\Lab2.csproj|d:\\web n\u00E2ng cao\\web\\lab2\\lab2\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{843151AB-FF36-4470-8B53-AB3C6A381E25}|Lab2\\Lab2.csproj|solutionrelative:lab2\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{843151AB-FF36-4470-8B53-AB3C6A381E25}|Lab2\\Lab2.csproj|d:\\web n\u00E2ng cao\\web\\lab2\\lab2\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{843151AB-FF36-4470-8B53-AB3C6A381E25}|Lab2\\Lab2.csproj|solutionrelative:lab2\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{843151AB-FF36-4470-8B53-AB3C6A381E25}|Lab2\\Lab2.csproj|d:\\web n\u00E2ng cao\\web\\lab2\\lab2\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{843151AB-FF36-4470-8B53-AB3C6A381E25}|Lab2\\Lab2.csproj|solutionrelative:lab2\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{843151AB-FF36-4470-8B53-AB3C6A381E25}|Lab2\\Lab2.csproj|d:\\web n\u00E2ng cao\\web\\lab2\\lab2\\models\\moviegenreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843151AB-FF36-4470-8B53-AB3C6A381E25}|Lab2\\Lab2.csproj|solutionrelative:lab2\\models\\moviegenreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +38,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelloWorldController.cs",
+              "DocumentMoniker": "D:\\Web n\u00E2ng cao\\Web\\Lab2\\Lab2\\Controllers\\HelloWorldController.cs",
+              "RelativeDocumentMoniker": "Lab2\\Controllers\\HelloWorldController.cs",
+              "ToolTip": "D:\\Web n\u00E2ng cao\\Web\\Lab2\\Lab2\\Controllers\\HelloWorldController.cs",
+              "RelativeToolTip": "Lab2\\Controllers\\HelloWorldController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:15:51.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Welcome.cshtml",
+              "DocumentMoniker": "D:\\Web n\u00E2ng cao\\Web\\Lab2\\Lab2\\Views\\HelloWorld\\Welcome.cshtml",
+              "RelativeDocumentMoniker": "Lab2\\Views\\HelloWorld\\Welcome.cshtml",
+              "ToolTip": "D:\\Web n\u00E2ng cao\\Web\\Lab2\\Lab2\\Views\\HelloWorld\\Welcome.cshtml",
+              "RelativeToolTip": "Lab2\\Views\\HelloWorld\\Welcome.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T13:15:42.032Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -44,71 +74,62 @@
               "RelativeDocumentMoniker": "Lab2\\Models\\SeedData.cs",
               "ToolTip": "D:\\Web n\u00E2ng cao\\Web\\Lab2\\Lab2\\Models\\SeedData.cs",
               "RelativeToolTip": "Lab2\\Models\\SeedData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDMAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T10:35:54.22Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Web n\u00E2ng cao\\Web\\Lab2\\Lab2\\appsettings.json",
-              "RelativeDocumentMoniker": "Lab2\\appsettings.json",
-              "ToolTip": "D:\\Web n\u00E2ng cao\\Web\\Lab2\\Lab2\\appsettings.json",
-              "RelativeToolTip": "Lab2\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-04T10:32:23.713Z",
+              "WhenOpened": "2025-12-04T13:13:12.522Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Web n\u00E2ng cao\\Web\\Lab2\\Lab2\\Program.cs",
-              "RelativeDocumentMoniker": "Lab2\\Program.cs",
-              "ToolTip": "D:\\Web n\u00E2ng cao\\Web\\Lab2\\Lab2\\Program.cs",
-              "RelativeToolTip": "Lab2\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T10:31:29.941Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Web n\u00E2ng cao\\Web\\Lab2\\Lab2\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Lab2\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Web n\u00E2ng cao\\Web\\Lab2\\Lab2\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Lab2\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-04T10:29:17.061Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MoviesController.cs",
-              "DocumentMoniker": "D:\\Web n\u00E2ng cao\\Web\\Lab2\\Lab2\\Controllers\\MoviesController.cs",
-              "RelativeDocumentMoniker": "Lab2\\Controllers\\MoviesController.cs",
-              "ToolTip": "D:\\Web n\u00E2ng cao\\Web\\Lab2\\Lab2\\Controllers\\MoviesController.cs",
-              "RelativeToolTip": "Lab2\\Controllers\\MoviesController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T10:22:28.35Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Movie.cs",
               "DocumentMoniker": "D:\\Web n\u00E2ng cao\\Web\\Lab2\\Lab2\\Models\\Movie.cs",
               "RelativeDocumentMoniker": "Lab2\\Models\\Movie.cs",
               "ToolTip": "D:\\Web n\u00E2ng cao\\Web\\Lab2\\Lab2\\Models\\Movie.cs",
               "RelativeToolTip": "Lab2\\Models\\Movie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T09:27:45.688Z"
+              "WhenOpened": "2025-12-04T13:08:20.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Web n\u00E2ng cao\\Web\\Lab2\\Lab2\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab2\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "D:\\Web n\u00E2ng cao\\Web\\Lab2\\Lab2\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "Lab2\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T13:12:29.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "D:\\Web n\u00E2ng cao\\Web\\Lab2\\Lab2\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Lab2\\Controllers\\MoviesController.cs",
+              "ToolTip": "D:\\Web n\u00E2ng cao\\Web\\Lab2\\Lab2\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Lab2\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAwwHQAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:40:40.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieGenreViewModel.cs",
+              "DocumentMoniker": "D:\\Web n\u00E2ng cao\\Web\\Lab2\\Lab2\\Models\\MovieGenreViewModel.cs",
+              "RelativeDocumentMoniker": "Lab2\\Models\\MovieGenreViewModel.cs",
+              "ToolTip": "D:\\Web n\u00E2ng cao\\Web\\Lab2\\Lab2\\Models\\MovieGenreViewModel.cs",
+              "RelativeToolTip": "Lab2\\Models\\MovieGenreViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:39:56.752Z",
+              "EditorCaption": ""
             }
           ]
         }
