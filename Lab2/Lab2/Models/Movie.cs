@@ -29,5 +29,11 @@ namespace Lab2.Models
         [StringLength(5)]
         [Required]
         public string? Rating { get; set; }
+
+        [Display(Name = "Category")]
+        public int CategoryId { get; set; }
+        public Category? Category { get; set; }
+
+        public ICollection<Ticket>? Tickets { get; set; }
     }
 }
