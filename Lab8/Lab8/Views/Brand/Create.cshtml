@@ -1,0 +1,45 @@
+﻿@model Lab8.Models.Brand
+
+@{
+    ViewData["Title"] = "Thêm mới Hãng xe";
+}
+
+<h1 class="h3 mb-4 text-gray-800">Thêm mới Hãng xe</h1>
+
+<div class="row">
+    <div class="col-lg-6">
+        <div class="card shadow mb-4">
+            <div class="card-header py-3">
+                <h6 class="m-0 font-weight-bold text-primary">Thông tin Hãng xe</h6>
+            </div>
+            <div class="card-body">
+                <form asp-action="Create">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="Name" class="control-label">Tên Hãng</label>
+                        <input asp-for="Name" class="form-control" placeholder="Nhập tên hãng..." />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="Country" class="control-label">Quốc gia</label>
+                        <input asp-for="Country" class="form-control" placeholder="Nhập quốc gia..." />
+                        <span asp-validation-for="Country" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <input type="submit" value="Lưu lại" class="btn btn-success" />
+                        <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

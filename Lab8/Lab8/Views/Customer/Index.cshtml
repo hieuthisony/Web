@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Lab8.Models.Customer>
+@{
+    ViewData["Title"] = "Khách hàng";
+}
+
+<h1 class="h3 mb-2 text-gray-800">Danh sách Khách hàng</h1>
+<div class="card shadow mb-4">
+    <div class="card-header py-3 d-flex justify-content-between">
+        <h6 class="m-0 font-weight-bold text-primary">Dữ liệu Khách hàng</h6>
+        <a asp-action="Create" class="btn btn-primary btn-sm"><i class="fas fa-plus"></i> Thêm mới</a>
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table table-bordered" width="100%" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Họ tên</th>
+                        <th>Địa chỉ</th>
+                        <th>Số điện thoại</th>
+                        <th>CMND/CCCD</th>
+                        <th>Hành động</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.Id</td>
+                            <td>@item.Name</td>
+                            <td>@item.Address</td>
+                            <td>@item.PhoneNumber</td>
+                            <td>@item.IdentityCardNumber</td>
+                            <td>
+                                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning btn-sm"><i class="fas fa-edit"></i></a>
+                                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm" onclick="return confirm('Xóa khách hàng này?');"><i class="fas fa-trash"></i></a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

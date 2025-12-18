@@ -1,0 +1,49 @@
+﻿@model Lab8.Models.Car
+
+@{
+    ViewData["Title"] = "Cập nhật Xe";
+}
+
+<h1 class="h3 mb-4 text-gray-800">Cập nhật Xe</h1>
+
+<div class="row">
+    <div class="col-lg-6">
+        <div class="card shadow mb-4">
+            <div class="card-header py-3">
+                <h6 class="m-0 font-weight-bold text-primary">Chỉnh sửa thông tin</h6>
+            </div>
+            <div class="card-body">
+                <form asp-action="Edit">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <input type="hidden" asp-for="Id" />
+
+                    <div class="form-group mb-3">
+                        <label asp-for="Name" class="control-label">Tên Xe</label>
+                        <input asp-for="Name" class="form-control" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="CarModelId" class="control-label">Thuộc Dòng Xe</label>
+                        <select asp-for="CarModelId" class="form-control"
+                                asp-items="@(new SelectList(ViewBag.CarModels, "Id", "Name"))">
+                            <option value="">-- Chọn dòng xe --</option>
+                        </select>
+                        <span asp-validation-for="CarModelId" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <input type="submit" value="Cập nhật" class="btn btn-primary" />
+                        <a asp-action="Index" class="btn btn-secondary">Hủy bỏ</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
